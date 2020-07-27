@@ -1,0 +1,12 @@
+[submodule "3rd_party/TW5-TopStoryView"]
+	path = 3rd_party/TW5-TopStoryView
+	url = git@github.com:felixhayashi/TW5-TopStoryView.git
+[submodule "3rd_party/TW5-Vis.js"]
+	path = 3rd_party/TW5-Vis.js
+	url = git@github.com:felixhayashi/TW5-Vis.js.git
+[submodule "3rd_party/TW5-HotZone"]
+	path = 3rd_party/TW5-HotZone
+	url = git@github.com:felixhayashi/TW5-HotZone.git
+[submodule "3rd_party/TW5-TiddlyMap"]
+	path = 3rd_party/TW5-TiddlyMap
+	url = git@github.com:felixhayashi/TW5-TiddlyMap.git
