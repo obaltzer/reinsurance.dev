@@ -1,11 +1,13 @@
 created: 20200723014931048
-modified: 20200723015648268
+modified: 20200729192338150
 tags: 
 title: reinsurance.dev
 tmap.id: 1d4541c6-a375-4138-87ff-346e20454ca5
 type: text/vnd.tiddlywiki
 
-Welcome to reinsurance.dev, your source of information on modeling, analytics, and software development related to reinsurance.
+Welcome to reinsurance.dev!
+
+This site's goal is to provide an overview of analytics priciples, models, and software. In some aspects, particularly the software, it aims to dive a little deeper and attempts offer additional details such as algorithms and implementations.
 
 !! Where to start?
 

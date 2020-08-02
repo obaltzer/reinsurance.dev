@@ -1,5 +1,5 @@
 created: 20200725003512684
-modified: 20200725015028989
+modified: 20200729194318367
 title: Reinsurance
 tmap.id: a7a3ca2c-da51-4734-a171-f6f4a37f3304
 type: text/vnd.tiddlywiki
@@ -16,4 +16,6 @@ For the most part reinsurance is a facility that allows insurance companies to p
 
 In addition, reinsurance can be used as a mechanism to offload risk to one or more other [[risk carriers|Risk Carrier]], and thus freeing up capital in order to either underwrite more risk or to achieve a more favorable financial position.
 
-In terms of market size, the majority of reinsurance is in fact offered to [[primary insurers|Primary Insurer]] to cover [[tail risks|Tail Risk]].
+In terms of market size, the majority of reinsurance is purchased by [[primary insurers|Primary Insurer]] to cover [[tail risks|Tail Risk]]. Other buyers of reinsurance may be [[reinsurers|Reinsurer]] themselves, [[captive insurers|Captive Insurer]], large corporations, public infrastructure operators, or governments.
+
+There are a number of different sources of reinsurance capital. The most common capital source is [[equity|Equity]]. Other source of capital (commonly known as [[alternative capital|Alternative Capital]]) may include [[collateralized funds|Collateralized Fund]] or [[insurance-linked securities|Insurance-linked Security]], such as [[catastrophe bonds|Catastrophe Bond]] or [[industry loss warranties|Industry Loss Warranty]].
