@@ -24,6 +24,8 @@ jobs:
 
       - name: Build
         run: tiddlywiki . --output public --build index
+        env:
+          TIDDLYWIKI_PLUGIN_PATH: plugins
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
