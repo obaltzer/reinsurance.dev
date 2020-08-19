@@ -21,6 +21,7 @@
         "tiddlywiki/katex",
         "tiddlywiki/menubar",
         "tiddlywiki/xmldom",
+        "tiddlywiki/googleanalytics",
         "felixhayashi/vis",
         "felixhayashi/topstoryview",
         "felixhayashi/tiddlymap",

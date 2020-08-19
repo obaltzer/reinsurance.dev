@@ -1,0 +1,12 @@
+config.edge_type_namespace: +[prefix[business]]
+config.neighbourhood_include_traced_node_neighbours: false
+config.neighbourhood_scope: 100
+config.neighbourhood_trace_clicks: false
+config.raster: 
+config.vis: {"edges":{}}
+created: 20200803032715363
+id: 433bd70a-16cf-40c6-b8e1-2e31bac7be6f
+isview: true
+modified: 20200809220206831
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Overview
+type: text/vnd.tiddlywiki

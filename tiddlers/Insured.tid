@@ -1,0 +1,13 @@
+created: 20200808015313558
+modified: 20200808023840928
+tags: [[Market Participant]]
+title: Insured
+tmap.edges: {"15320f12-b54c-4a5c-9b5b-630a3eda557d":{"to":"fe694980-777a-49b9-a7cb-abb0ba4a7575","type":"business:insured-by"}}
+tmap.id: 69305403-d898-4e78-bcac-b50f4ce543d4
+type: text/vnd.tiddlywiki
+
+The [[insured|Insured]] is a person or corporation purchasing insurance directly, typically from a [[primary insurer|Primary Insurer]], and is the ultimate beneficiary of the insurance value chain.
+
+Most commonly, the insured is an individual who purchases insurance products that are generally classified as personal [[lines of business|Line of Business]]. For example, homeowner, property, health, life, auto, travel, or liability insurance.
+
+The commercial [[lines of business|Line of Business]] products are primarily targeted at corporations and business, and offer cover for risks such as directors and officers liability, business interruption, marine, aviation, casualty, among others.
