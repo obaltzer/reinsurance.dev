@@ -27,6 +27,9 @@ jobs:
         env:
           TIDDLYWIKI_PLUGIN_PATH: plugins
 
+      - name: Set CNAME
+        run: echo reinsurance.dev > public/CNAME
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
