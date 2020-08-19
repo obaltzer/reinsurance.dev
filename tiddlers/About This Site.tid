@@ -1,0 +1,20 @@
+created: 20200803020902821
+modified: 20200803023713020
+tags: 
+title: About This Site
+tmap.id: 3f2d32ed-4bc9-4f63-883d-08e108b12458
+type: text/vnd.tiddlywiki
+
+This site was created as a mechanism to capture the wealth of information and knowledge I had the privilege to receive during my time as a software engineer, software architect, product manager, and CTO while working within the reinsurance industry. I believe it can serve as a source of information for others as much of this information is not commonly or easily accessible, and must otherwise be acquired through many years of experience.
+
+!! What is this site?
+
+The purpose of this site is to serve as a source of information and guidance on general information about the reinsurance industry, the analytics employed in this industry, and the software that enables these analytics. The software component is meant to be the focus of this site as it encompasses the majority of my experience in this industry.
+
+!! What this site is not?
+
+Although I consider myself a professional with a non-trivial amount of experience working in the reinsurance industry, I do learn new things every day and I make mistakes. As such, this site should not be considered an authority on any topic it covers. Do not mistake the views and guidance offered here as universally correct, as I have seen too many ways of achieving the same thing. Most importantly, do not base your homework, essay, paper, design decisions, implementations, or business decisions solely on information you find here. Explore other sources and consult your experienced colleagues for additional guidance.
+
+!! Who is this site for?
+
+The target audience of this site are primarily software development and data science professionals within the reinsurance industry. However, the site also aims to offer general information about the industry and provides an overview of a complex business.

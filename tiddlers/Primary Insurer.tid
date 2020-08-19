@@ -1,6 +1,8 @@
 created: 20200727161011297
-modified: 20200727161355366
+modified: 20200808023901437
+tags: [[Market Participant]] [[Risk Carrier]]
 title: Primary Insurer
+tmap.edges: {"218cce63-923a-4719-b8cb-d977b58879d0":{"to":"e5905692-a65f-4003-b8c6-747533a28314","type":"business:insured-by"}}
 tmap.id: fe694980-777a-49b9-a7cb-abb0ba4a7575
 type: text/vnd.tiddlywiki
 

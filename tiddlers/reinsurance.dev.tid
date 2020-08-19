@@ -1,5 +1,5 @@
 created: 20200723014931048
-modified: 20200729192338150
+modified: 20200819182654587
 tags: 
 title: reinsurance.dev
 tmap.id: 1d4541c6-a375-4138-87ff-346e20454ca5
@@ -7,10 +7,25 @@ type: text/vnd.tiddlywiki
 
 Welcome to reinsurance.dev!
 
-This site's goal is to provide an overview of analytics priciples, models, and software. In some aspects, particularly the software, it aims to dive a little deeper and attempts offer additional details such as algorithms and implementations.
+This site's goal is to dive deep into the principles and implementation of reinsurance analytics software. It provides a general overview of reinsurance, its marketplace and participants, but focuses primarily on reinsurance analytics software.
+
+This site does not provide a review of existing reinsurance analytics products available in the market. Instead it aims to offer insights into some of the underlying technologies, models, and assumptions these products are based off. Many of these products are proprietary, but most are rooted in a common set of principles. Our goals is to provide easy access to information about this common set of principles.
+
+Specifically, this site discusses algorithms and implementation of individual reinsurance analytics components across a multitude of applications, such as:
+
+* [[Catastrophe Modelling]]
+* [[Financial Modelling]]
+* [[Pricing]]
+* [[Portfolio Management]]
+* [[Portfolio Optimization]]
+* [[Capital Management]]
 
 !! Where to start?
 
 * [[Reinsurance]]: An overview of what reinsurance is and how the market is structured
-* [[Reinsurance Analytics]]: An introduction to what types of analytics reinsurance practitioners employ
-* [[Reinsurance Software]]: An overview of different reinsurance software components
+* [[Reinsurance Analytics]]: An introduction to the types of analytics used in reinsurance
+* [[Reinsurance Software Development]]: An overview of different reinsurance software components and their implementation
+
+!! What is this?
+
+* [[About This Site]]

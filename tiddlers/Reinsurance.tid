@@ -1,21 +1,30 @@
 created: 20200725003512684
-modified: 20200729194318367
+modified: 20200819175554824
 title: Reinsurance
 tmap.id: a7a3ca2c-da51-4734-a171-f6f4a37f3304
+tmap.open-view: Overview
 type: text/vnd.tiddlywiki
 
-The most simple definition of what reinsurance is, is probably: 
+<$tmap view="Overview" ></$tmap>
+
+The most simple definition of reinsurance is probably: 
 
 <<<
 Insurance for insurance companies.
 <<<
 
-While not incorrect, reinsurance often constitutes much more than that.
+While not incorrect, reinsurance constitutes much more than that.
 
 For the most part reinsurance is a facility that allows insurance companies to purchase insurance covers that protect them from outsized losses due to natural or human-made catastrophes. It is a risk management tool many insurance companies employ to ensure their sustainability.
 
 In addition, reinsurance can be used as a mechanism to offload risk to one or more other [[risk carriers|Risk Carrier]], and thus freeing up capital in order to either underwrite more risk or to achieve a more favorable financial position.
 
-In terms of market size, the majority of reinsurance is purchased by [[primary insurers|Primary Insurer]] to cover [[tail risks|Tail Risk]]. Other buyers of reinsurance may be [[reinsurers|Reinsurer]] themselves, [[captive insurers|Captive Insurer]], large corporations, public infrastructure operators, or governments.
+[[Reinsurers|Reinsurer]] tend to operate at a global scale, allowing them to [[diversify|Diversification]] their risk profile across multiple geographies, perils, and [[lines of business|Line of Business]].
 
-There are a number of different sources of reinsurance capital. The most common capital source is [[equity|Equity]]. Other source of capital (commonly known as [[alternative capital|Alternative Capital]]) may include [[collateralized funds|Collateralized Fund]] or [[insurance-linked securities|Insurance-linked Security]], such as [[catastrophe bonds|Catastrophe Bond]] or [[industry loss warranties|Industry Loss Warranty]].
+In terms of market size, the majority of reinsurance is purchased by [[primary insurers|Primary Insurer]] to cover [[tail risks|Tail Risk]]. Other buyers of reinsurance may be [[reinsurers|Reinsurer]] themselves, [[captive insurers|Captive Insurer]], corporations, public infrastructure operators, or governments.
+
+Reinsurance is offered in a number of different forms. The most common ones are [[treaty reinsurance|Treaty Reinsurance]], [[direct reinsurance|Direct Reinsurance]], [[binders|Binder]], [[industry loss warranties|Industry Loss Warranty]], and [[bonds|Catastrophe Bond]].
+
+The reinsurance business is typically transacted through [[reinsurance brokers|Reinsurance Broker]]. The broker's responsibility is to work with the insured to structure a reinsurance policy and to obtain a commercially competitive placement of the insured's risk in the market.
+
+There are a number of different sources of reinsurance capital. The traditional and most common capital source is [[equity|Equity]]. Reinsurance companies that are capitalized through equity are typically referred to as [[traditional reinsurers|Traditional Reinsurance]]. Beyond that, reinsurance is often considered to bridge the gap between the insurance industry and the financial markets with other sources of capital, commonly known as [[alternative capital|Alternative Capital Reinsurance]]. They may include [[collateralized funds|Collateralized Fund]] or [[insurance-linked securities|Insurance-linked Security]], such as [[catastrophe bonds|Catastrophe Bond]] or [[industry loss warranties|Industry Loss Warranty]].
